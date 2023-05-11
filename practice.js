@@ -7,4 +7,6 @@ console.log(10 % 3 === 1) // output
 // git push origin <branch name>
 
 // Javascript is tough but fun
-//I will get it eventually 
+// I will get it eventually 
+
+// Last addition to check out how to merge and delete branch on github
