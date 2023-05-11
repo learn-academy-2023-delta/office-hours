@@ -5,3 +5,6 @@ console.log(10 % 3 === 1) // output
 // git add <file name>
 // git commit -m "detailed message"
 // git push origin <branch name>
+
+// Javascript is tough but fun
+//I will get it eventually 
